@@ -137,8 +137,8 @@ $ docker inspect image.name
 <br/>
 
  ### <i>End of theory lets move towards some docker 
- [Commands](https://github.com/ShivaBhattacharjee/DevOps/blob/master/Docker/DockerCommands.md)
+ [Commands](https://github.com/CodeBrazen/DevOps/blob/master/Docker/DockerCommands.md)
  
  <br/>
  
- [Docker file example](https://github.com/ShivaBhattacharjee/DevOps/blob/master/Docker/DockerFile)
+ [Docker file example](https://github.com/CodeBrazen/DevOps/blob/master/Docker/DockerFile)
